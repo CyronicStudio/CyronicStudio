@@ -1,4 +1,4 @@
-# Welcome to Cyronic Studio by Neelplaytime! 👾
+# Welcome to Cyronic Studio 👾
 
 Welcome to Cyronic Studio's GitHub repository, brought to you by Neelplaytime, an indie game developer passionate about crafting immersive gaming experiences. We're thrilled to have you here and share our journey in the world of gaming.
 
@@ -53,3 +53,5 @@ Did you know? The name "Cyronic" was inspired by a combination of "cybernetic" a
 - **Discord**: [Cyronic Studio Community](https://discord.com/invite/sJCj8u2kUN)
 
 Thank you for visiting Cyronic Studio by Neelplaytime's GitHub repository! We're excited to share our passion for gaming with you and look forward to embarking on this adventure together. Happy gaming! 🎮
+
+Copyright Ⓒ Cyronic Studio 2024
