@@ -22,9 +22,7 @@ If you're interested in joining our team or collaborating with us in any capacit
 
 Here are some of the projects we're currently working on at Cyronic Studio:
 
-- **Project A**: A futuristic first-person shooter set in a dystopian world, featuring intense multiplayer battles.
-- **Project B**: An epic fantasy RPG with a rich, immersive world to explore, filled with quests and adventures.
-- **Project C**: A charming indie platformer with unique mechanics and a heartfelt story to discover.
+- **Gas Station 2024**: A futuristic open world game for mobile.
 
 Stay tuned for updates and announcements about our projects! We can't wait to share more with you as our games evolve.
 
