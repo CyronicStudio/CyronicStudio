@@ -50,7 +50,7 @@ Did you know? The name "Cyronic" was inspired by a combination of "cybernetic" a
 
 ## 📫 Connect with Us 📣
 
-- **Email**: [contact@cyronicstudio.com]help.cyronicstudio@gmail.com)
+- **Email**: [contact@cyronicstudio.com](help.cyronicstudio@gmail.com)
 - **Twitter**: [@CyronicStudio](https://twitter.com/CyronicStudio)
 - **Discord**: [Cyronic Studio Community](https://discord.com/invite/sJCj8u2kUN)
 
